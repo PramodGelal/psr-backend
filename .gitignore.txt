@@ -1,0 +1,23 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+target/
+.mvn/
+
+# Logs
+*.log
+
+# Uploaded files
+uploads/
+
+# OS
+.DS_Store
+Thumbs.db
